@@ -93,6 +93,161 @@ var temples = [
         "name": "Apia Samoa",
         "src": "http://www.ldschurchtemples.com/apia/gallery/images/apia-mormon-temple2.jpg",
         "copyright": "Amalia"
+    },
+    {
+        "name": "Salt Lake",
+        "src": "http://www.ldschurchtemples.com/saltlake/gallery/images/salt-lake-mormon-temple167.jpg",
+        "copyright": "David C. Moore"
+    },
+    {
+        "name": "Salt Lake",
+        "src": "http://www.ldschurchtemples.com/saltlake/gallery/images/salt-lake-mormon-temple3.jpg",
+        "copyright": "Mike Provard"
+    },
+    {
+        "name": "Salt Lake",
+        "src": "http://www.ldschurchtemples.com/saltlake/gallery/images/salt-lake-mormon-temple115.jpg",
+        "copyright": "Andy Nelson"
+    },
+    {
+        "name": "Madrid Spain",
+        "src": "http://www.ldschurchtemples.com/madrid/gallery/images/madrid-mormon-temple68.jpg",
+        "copyright": "Scott Zimmerman"
+    },
+    {
+        "name": "Madrid Spain",
+        "src": "http://www.ldschurchtemples.com/madrid/gallery/images/madrid-mormon-temple65.jpg",
+        "copyright": "Scott Zimmerman"
+    },
+    {
+        "name": "Manaus Brazil",
+        "src": "http://www.ldschurchtemples.com/manaus/gallery/images/manaus-mormon-temple1.jpg",
+        "copyright": "Gilvan Santos da Silva"
+    },
+    {
+        "name": "Manti Utah",
+        "src": "http://www.ldschurchtemples.com/manti/gallery/images/manti-mormon-temple71.jpg",
+        "copyright": "Ronald E. Larsen"
+    },
+    {
+        "name": "Manti Utah",
+        "src": "http://www.ldschurchtemples.com/manti/gallery/images/manti-mormon-temple9.jpg",
+        "copyright": "Rick Satterfield"
+    },
+    {
+        "name": "Mesa Arizona",
+        "src": "http://www.ldschurchtemples.com/mesa/gallery/images/mesa-mormon-temple104.jpg",
+        "copyright": "Tracy Crump"
+    },
+    {
+        "name": "Mesa Arizona",
+        "src": "http://www.ldschurchtemples.com/mesa/gallery/images/mesa-mormon-temple12.jpg",
+        "copyright": "Clairissa Cooper"
+    },
+    {
+        "name": "Montreal Quebec",
+        "src": "http://www.ldschurchtemples.com/montreal/gallery/images/montreal-mormon-temple2.jpg",
+        "copyright": "Jeff Christensen"
+    },
+    {
+        "name": "Mount Timpanogos Utah",
+        "src": "http://www.ldschurchtemples.com/mounttimpanogos/gallery/images/mount-timpanogos-mormon-temple54.jpg",
+        "copyright": "Ivan Makarov"
+    },
+    {
+        "name": "Mount Timpanogos Utah",
+        "src": "http://www.ldschurchtemples.com/mounttimpanogos/gallery/images/mount-timpanogos-mormon-temple75.jpg",
+        "copyright": "Steven M. Reyes"
+    },
+    {
+        "name": "Mount Timpanogos Utah",
+        "src": "http://www.ldschurchtemples.com/mounttimpanogos/gallery/images/mount-timpanogos-mormon-temple76.jpg",
+        "copyright": "Steven M. Reyes"
+    },
+    {
+        "name": "Houston Texas",
+        "src": "http://www.ldschurchtemples.com/houston/gallery/images/houston-mormon-temple32.jpg",
+        "copyright": "Stefany Willie"
+    },
+    {
+        "name": "Houston Texas",
+        "src": "http://www.ldschurchtemples.com/houston/gallery/images/houston-mormon-temple56.jpg",
+        "copyright": "Arco Montúfar"
+    },
+    {
+        "name": "Houston Texas",
+        "src": "http://www.ldschurchtemples.com/houston/gallery/images/houston-mormon-temple50.jpg",
+        "copyright": "Brittany Price"
+    },
+    {
+        "name": "Idaho Falls Idaho",
+        "src": "http://www.ldschurchtemples.com/idahofalls/gallery/images/idaho-falls-mormon-temple4.jpg",
+        "copyright": "Rick Satterfield"
+    },
+    {
+        "name": "Jordan River Utah",
+        "src": "http://www.ldschurchtemples.com/jordanriver/gallery/images/jordan-river-mormon-temple89.jpg",
+        "copyright": "Steven M. Reyes"
+    },
+    {
+        "name": "Johannesburg South Africa",
+        "src": "http://www.ldschurchtemples.com/johannesburg/gallery/images/johannesburg-mormon-temple35.jpg",
+        "copyright": "Shaun Thomas"
+    },
+    {
+        "name": "Kansas City Missouri",
+        "src": "http://www.ldschurchtemples.com/kansascity/gallery/images/kansas-city-mormon-temple49.jpg",
+        "copyright": "Randy Johnson"
+    },
+    {
+        "name": "Kansas City Missouri",
+        "src": "http://www.ldschurchtemples.com/kansascity/gallery/images/kansas-city-mormon-temple13.jpg",
+        "copyright": "Randy Johnson"
+    },
+    {
+        "name": "Kansas City Missouri",
+        "src": "http://www.ldschurchtemples.com/kansascity/gallery/images/kansas-city-mormon-temple1.jpg",
+        "copyright": "Randy Johnson"
+    },
+    {
+        "name": "Kona Hawaii",
+        "src": "http://www.ldschurchtemples.com/kona/gallery/images/kona-mormon-temple15.jpg",
+        "copyright": "Scott Bosshardt"
+    },
+    {
+        "name": "Kyiv Ukraine",
+        "src": "http://www.ldschurchtemples.com/kyiv/gallery/images/kyiv-mormon-temple17.jpg",
+        "copyright": "Gennadiy Nosenko"
+    },
+    {
+        "name": "Laie Hawaii",
+        "src": "http://www.ldschurchtemples.com/laie/gallery/images/laie-mormon-temple97.jpg",
+        "copyright": "Tyler Kimball"
+    },
+    {
+        "name": "Laie Hawaii",
+        "src": "http://www.ldschurchtemples.com/laie/gallery/images/laie-mormon-temple2.jpg",
+        "copyright": "Rick Satterfield"
+    },
+    {
+        "name": "Logan Utah",
+        "src": "http://www.ldschurchtemples.com/logan/gallery/images/logan-mormon-temple8.jpg",
+        "copyright": "Rick Satterfield"
+    },
+    {
+        "name": "Logan Utah",
+        "src": "http://www.ldschurchtemples.com/logan/gallery/images/logan-mormon-temple2.jpg",
+        "copyright": "Rick Satterfield"
+    },
+    {
+        "name": "Logan Utah",
+        "src": "http://www.ldschurchtemples.com/logan/gallery/images/logan-mormon-temple13.jpg",
+        "copyright": "Andy Nelson"
+    },
+    {
+        "name": "London England",
+        "src": "http://www.ldschurchtemples.com/london/gallery/images/london-mormon-temple1.jpg",
+        "copyright": "Dave Newman"
     }
 ];
 
