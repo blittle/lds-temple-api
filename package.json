@@ -1,6 +1,6 @@
 {
   "name": "lds-temple-api",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "API for querying images of LDS Temples",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/blittle/lds-temple-api",
   "dependencies": {
-    "express": "^4.6.1"
+    "dateformat": "^1.0.8-1.2.3",
+    "express": "^4.6.1",
+    "winston": "^0.7.3"
   }
 }
